@@ -6,7 +6,6 @@
    - 🐍 Python Programing Language
 - 📫 How to reach me:
    - 👾 Discord: @cre4tos
-- ⚡ Fun fact: ...
 
 <!---
 Cre4to5/Cre4to5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
